@@ -1,0 +1,6 @@
+################################################################################
+# bin2load
+################################################################################
+
+Converts a raw binary image (extracted via objcopy) to paper loader format.
+Resulting image is suitable for use with SIMH via 'load' command.
